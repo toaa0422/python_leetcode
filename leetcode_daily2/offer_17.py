@@ -1,0 +1,2 @@
+lis=[]
+print(dir(lis))
